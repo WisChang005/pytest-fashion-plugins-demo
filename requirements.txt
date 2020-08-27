@@ -1,0 +1,5 @@
+pytest
+pytest-sugar
+pytest-repeat
+pytest-xdist
+pytest-emoji

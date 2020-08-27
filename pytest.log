@@ -1,0 +1,4 @@
+2020-08-28 00:17:22 [INFO] test_case1 - [1598545042] (test_pytest_plugins.py:6)
+2020-08-28 00:17:22 [INFO] test_case2 - [1598545042] (test_pytest_plugins.py:10)
+2020-08-28 00:17:22 [INFO] test_case3 - [1598545042] (test_pytest_plugins.py:14)
+2020-08-28 00:17:22 [INFO] test_case4 - [1598545042] (test_pytest_plugins.py:18)
